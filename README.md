@@ -3,7 +3,7 @@
 Im Arthur a Unity developer and Game designer
 
 The project I’ve enjoyed working on the most is [Syphon](https://protal.itch.io/syphon) => repo here: [repo link](https://github.com/ArthurCaumartin/OMH_Proto)<br>
-*Built with an awesome team <3*
+*Built with an awesome team ❤️*
 
 I mainly worked on the programming side of the project:
 - Built an [inheritance-based state machine](https://github.com/ArthurCaumartin/OMH_Proto/tree/V2_Dev/OMH_Proto/Assets/%5BProject%5D/Scripts/StateMachine) system for enemy behavior.
