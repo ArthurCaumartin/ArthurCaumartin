@@ -6,7 +6,7 @@ The project I’ve enjoyed working on the most is [Syphon](https://protal.itch.i
 Check out the repo here: [repo link](https://github.com/ArthurCaumartin/OMH_Proto)
 *Built with an awesome team <3*
 
-I mainly worked on the programming side of the project:  
+I mainly worked on the programming side of the project:<br>
 - Built an [inheritance-based state machine](https://github.com/ArthurCaumartin/OMH_Proto/tree/V2_Dev/OMH_Proto/Assets/%5BProject%5D/Scripts/StateMachine) system for enemy behavior.
 - Implemented a [PhysicsAgent](https://github.com/ArthurCaumartin/OMH_Proto/blob/V2_Dev/OMH_Proto/Assets/%5BProject%5D/Scripts/NavMesh/PhysicsAgent.cs) class to enable Rigidbody-based movement on top of a NavMesh.
 - Used ScriptableObjects to set up [global game events](https://github.com/ArthurCaumartin/OMH_Proto/tree/V2_Dev/OMH_Proto/Assets/%5BProject%5D/Scripts/Variables/Events) and [shared variables](https://github.com/ArthurCaumartin/OMH_Proto/tree/V2_Dev/OMH_Proto/Assets/%5BProject%5D/Scripts/Variables), avoiding tight coupling and enabling more modular, isolated systems.
