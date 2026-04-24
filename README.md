@@ -22,7 +22,7 @@ arthurcaumartinpro@gmail.com
 - Blender
 
 ## About Me
-- I have a tiny dog
+- 🐶 I have a tiny dog
 - I'm a Path of Exile addict (greatest game ever)
 
 
