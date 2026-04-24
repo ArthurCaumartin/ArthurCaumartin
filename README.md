@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 Im Arthur a Unity developer and Game designer
 
@@ -16,13 +16,13 @@ I mainly worked on the programming side of the project:
 How to reach me : 
 arthurcaumartinpro@gmail.com
 
-# Tools
+### Tools
 - C# & Unity
 - Miro
 - Adobe Suite
 - Blender
 
-# About Me
+### About Me
 - I have a tiny dog
 - I'm a Path of Exile addict (greatest game ever)
 
