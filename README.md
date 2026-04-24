@@ -2,8 +2,6 @@
 
 Im Arthur a Unity developer and Game designer
 
-Currently learning blender
-
 The project I’ve enjoyed working on the most is [Syphon](https://protal.itch.io/syphon).
 Check out the repo here: [repo link](https://github.com/ArthurCaumartin/OMH_Proto)
 *Built with an awesome team <3*
@@ -18,15 +16,11 @@ I mainly worked on the programming side of the project:
 How to reach me : 
 arthurcaumartinpro@gmail.com
 
----
-
 ## Tools
 - C# & Unity
 - Miro
 - Adobe Suite
 - Blender
-  
----
 
 ## About Me
 - I have a tiny little dog
